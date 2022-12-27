@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/joseedet/Documentos/Proyectos/CMS/CMS.Utilities/CMS.Utilities.csproj": {}
+  },
+  "projects": {
+    "/home/joseedet/Documentos/Proyectos/CMS/CMS.Utilities/CMS.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/joseedet/Documentos/Proyectos/CMS/CMS.Utilities/CMS.Utilities.csproj",
+        "projectName": "CMS.Utilities",
+        "projectPath": "/home/joseedet/Documentos/Proyectos/CMS/CMS.Utilities/CMS.Utilities.csproj",
+        "packagesPath": "/home/joseedet/.nuget/packages/",
+        "outputPath": "/home/joseedet/Documentos/Proyectos/CMS/CMS.Utilities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/joseedet/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
